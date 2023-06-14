@@ -19,10 +19,10 @@
 - Mostrar como ha aumentado la produccion de satelites a lo largo de los años
 - Mostrar la locura que causo Elon musk para estos años
 
-![image](https://github.com/joeSL-ms/Desarrollo/assets/127346073/27a3be49-60b1-40a1-9e96-a1acb38f8169)
 
-
-![image](https://github.com/joeSL-ms/Desarrollo/assets/127346073/ae40e389-4e52-4d04-9615-448c80365370)
+|     2003      -      2019     |ElohM.  2003  -  2023      |
+|-------------------------------|---------------------------|
+|![image](https://github.com/joeSL-ms/Satellites/assets/127346073/24016302-ec66-4e88-a2e8-cc2615b755c8)|![image](https://github.com/joeSL-ms/Satellites/assets/127346073/b60861e4-22f1-4b43-8e19-8236e5fcb5cc)|
 
 ## La parte final
 
